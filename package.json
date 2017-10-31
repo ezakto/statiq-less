@@ -1,0 +1,15 @@
+{
+  "name": "statiq-less",
+  "version": "0.1.0",
+  "description": "Less.js statiq asset handler",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:ezakto/statiq-less.git",
+    "type": "git"
+  },
+  "author": "Nicolás Arias <nicolas@nicolasarias.com>",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.7.3"
+  }
+}
