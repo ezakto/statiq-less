@@ -1,6 +1,6 @@
 {
   "name": "statiq-less",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Less.js statiq asset handler",
   "main": "index.js",
   "repository": {
@@ -11,5 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "less": "^2.7.3"
+  },
+  "peerDependencies": {
+    "statiq": ">=0.5.1"
   }
 }
